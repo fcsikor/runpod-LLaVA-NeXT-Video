@@ -1,0 +1,9 @@
+runpod~=1.7.0
+pillow
+torch
+accelerate
+bitsandbytes
+protobuf
+sentencepiece
+transformers==4.42.4
+json-numpy
