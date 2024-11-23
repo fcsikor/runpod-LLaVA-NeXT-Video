@@ -5,5 +5,5 @@ accelerate
 bitsandbytes
 protobuf
 sentencepiece
-transformers==4.42.4
+transformers==4.43.4
 json-numpy
